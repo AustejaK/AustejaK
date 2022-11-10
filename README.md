@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a postdoc at the University of Trento. My research focuses on individual decision making in behavioral economics framework. In particular, I am interested in using experimental methods to study intertemporal choice. My research interests include vulnerability, psychology of poverty, and behavioral public policy.
+I am a postdoctoral researcher working at the University of Trento. My research focuses on individual decision making in behavioral economics framework. In particular, I am interested in using experimental methods to study intertemporal choice. My research interests include vulnerability, psychology of poverty, and behavioral public policy.
 
 I am currently working on psychophysiological measures in food consumer science.
 
