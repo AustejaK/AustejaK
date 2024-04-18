@@ -2,10 +2,11 @@
 
 I am a postdoctoral researcher working at the [University of Trento]([url](https://www.economia.unitn.it/en)). My broad research focuses on individual decision making in behavioral economics framework. 
 
-Some of the projects I am currently working on:
+**Some of the projects I am currently working on:**
   - Using behavioural insights to increase sustainability in agriculture (under EU H2020 project [VISIONARY]([url](https://visionary-project.eu/)))
   - Using behavioural insights to increase sustainability in consumer choice (under EU H2020 project [VISIONARY]([url](https://visionary-project.eu/)))
   - Food consumer science and psychophysiological measures (under EU H2020 project [COMFOCUS]([url](https://comfocus.eu/)))
+
 
 <!--
 **AustejaK/AustejaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
