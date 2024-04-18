@@ -1,6 +1,6 @@
 ### Hi there, I am Austėja 👋
 
-I am a postdoctoral researcher working at the [University of Trento]([url](https://www.economia.unitn.it/en)). My broad research focuses on individual decision making in behavioral economics framework. 
+I am a postdoctoral researcher working at the [University of Trento](https://www.economia.unitn.it/en)). My broad research focuses on individual decision making in behavioral economics framework. 
 
 **Some of the projects I am currently working on:**
   - Using behavioural insights to increase sustainability in agriculture (under EU H2020 project [VISIONARY]([url](https://visionary-project.eu/)))
