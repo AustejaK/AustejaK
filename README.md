@@ -1,8 +1,9 @@
 ### Hi there, I am Austėja 👋
 
-I am a postdoctoral researcher working at the [University of Trento](https://www.economia.unitn.it/en). My broad research focuses on individual decision making in behavioral economics framework. 
+I am a postdoctoral researcher working at the [Free University of Bozen-Bolzano](https://www.unibz.it/). My broad research focuses on individual decision making in behavioral economics framework. 
 
-**Some of the projects I am currently working on:**
+**Some of the projects I have worked or am currently working on:**
+  - Using true cost approach to increase sustainability in food consumer choice (under FutureFoodS project [BeTrue](https://www.futurefoodspartnership.eu/betrue))
   - Using behavioural insights to increase sustainability in agriculture (under EU H2020 project [VISIONARY](https://visionary-project.eu/))
   - Using behavioural insights to increase sustainability in consumer choice (under EU H2020 project [VISIONARY](https://visionary-project.eu/))
   - Food consumer science and psychophysiological measures (under EU H2020 project [COMFOCUS](https://comfocus.eu/))
